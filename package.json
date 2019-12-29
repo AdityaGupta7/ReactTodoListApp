@@ -1,4 +1,5 @@
 {
+  "homepage": "https://AdityaGupta7.github.io/ReactTodoListApp",
   "name": "react_todo",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.0",
     "react": "^16.12.0",
+    "gh-pages": "^2.1.1",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
